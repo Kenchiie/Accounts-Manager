@@ -10,9 +10,9 @@ To get started with the Accounts Manager project, follow the steps below:
 
 Make sure you have the following prerequisites installed on your machine:
 
-- PHP (version >= 7.4)
+- PHP (version >= 8.1)
 - Composer
-- Laravel (version >= 8.0)
+- Laravel (version >= 10.10)
 - MySQL (or any other compatible database system)
 
 ### Installation
