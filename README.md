@@ -79,10 +79,10 @@ Congratulations! You have successfully set up the Accounts Manager project on yo
 
 Once the application is up and running, you can access it in your web browser by navigating to `http://127.0.0.1:8000`. Here are a few instructions to help you get started:
 
-1. Register a new user account using the provided registration form.
-2. Log in with your newly created account.
-3. Use the account management features to add, edit, and delete your account credentials.
-4. Organize your accounts using categories or any other method that suits your needs.
+1. Add user.
+2. Click the view button with they eye icon.
+3. Add accounts.
+4. You can also export user accounts into excel file.
 
 Feel free to explore the application and customize it according to your preferences.
 
