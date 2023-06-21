@@ -15,10 +15,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::redirect('/', '/accounts');
+Route::redirect('/', '/users');
 
 Route::resource('users', UserController::class);
-
 
 // Accounts
 Route::resource('users.accounts', AccountController::class)->except('index', 'show');
